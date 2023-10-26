@@ -21,8 +21,12 @@ To install the dependencies enter on the command line; npm i
 ## Usage
 
 User can open provided deployed url. User can input create notes or code snippets and all data will be saved in storage. If user wishes to, he can also download application by clicking "install" on left top corner or on the url input field clicking on "download icon". 
+<br>
+https://progressive-web-app-348f733ff5a0.herokuapp.com/
+<br>
 
-![alt text](./assets/images/Screenshot%202023-10-25%20at%209.50.25%20PM.png)
+![alt text](./assets/images/Screenshot%202023-10-25%20at%2010.06.52%20PM.png)
+![alt text](./assets/images/Screenshot%202023-10-25%20at%2010.08.24%20PM.png)
 
 ## License
 
