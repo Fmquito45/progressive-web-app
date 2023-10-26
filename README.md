@@ -24,7 +24,6 @@ User can open provided deployed url. User can input create notes or code snippet
 
 ![alt text](./assets/images/Screenshot%202023-10-25%20at%209.50.25%20PM.png)
 
-
 ## License
 
 MIT License
